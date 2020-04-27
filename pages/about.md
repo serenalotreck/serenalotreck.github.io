@@ -1,4 +1,3 @@
----
 layout: page
 title: "about"
 permalink: /about/
@@ -12,16 +11,3 @@ Alongside my degree in biochemistry, I also pursued Spanish language in my acade
 I'm proudly \#BiinSci and passionate about diversity and inclusion in the workplace, participating in MSU's [Alliance for Graduate Education and the Professoriate](https://grad.msu.edu/agep) (AGEP) organization, and part of [Queer In AI](https://sites.google.com/view/queer-in-ai/about?authuser=0). 
 
 In my spare time, I love rock climbing, backpacking, classical ballet, photography, and science fiction. I split my free time between my sports, taking pictures, and looking for new female sci-fi authors to read.    
----
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
