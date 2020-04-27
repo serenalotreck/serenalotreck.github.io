@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Serena Lotreck
+title: Serena G. Lotreck
 email: lotrecks@msu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Website for Serena G. Lotreck, PhD student at Michigan State University.
