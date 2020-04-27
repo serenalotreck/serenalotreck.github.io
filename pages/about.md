@@ -1,6 +1,8 @@
+---
 layout: page
 title: "about"
 permalink: /about/
+---
 
 **My research focuses on the application of cutting-edge artificial intelligence methods in plant biology, with the aim of improving human life and sustainability.**
 
