@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 ![Photo of a small waterfall in fall in the Swedler Preserve at Lick Brook, Ithaca, NY](../images/LickBrook.JPG)
 
