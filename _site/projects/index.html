@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>projects | Serena G. Lotreck</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="projects" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Website for Serena G. Lotreck, PhD student at Michigan State University." />
+<meta property="og:description" content="Website for Serena G. Lotreck, PhD student at Michigan State University." />
+<link rel="canonical" href="http://localhost:4000/projects/" />
+<meta property="og:url" content="http://localhost:4000/projects/" />
+<meta property="og:site_name" content="Serena G. Lotreck" />
+<script type="application/ld+json">
+{"@type":"WebPage","headline":"projects","description":"Website for Serena G. Lotreck, PhD student at Michigan State University.","url":"http://localhost:4000/projects/","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Serena G. Lotreck" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Serena G. Lotreck</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/cv/">CV</a><a class="page-link" href="/about/">about</a><a class="page-link" href="/projects/">projects</a><a class="page-link" href="/publications/">publications</a><a class="page-link" href="/talks/">talks</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">projects</h1>
+  </header>
+
+  <div class="post-content">
+    <p><img src="/images/MtJo.JPG" alt="Picture of Heart Lake from the summit of Mount Jo in the Adirondacks" /></p>
+
+<h3 id="using-machine-learning-interpretability-to-examine-genetic-interactions">Using machine learning interpretability to examine genetic interactions</h3>
+<hr />
+<p>The model organism <em>Saccharomyces cerevisiae</em> provides a perfect study system for genetic interactions. Using a fitness assay, where the relative size of the colony represents the fitness of that genotype, it is simple and high-throughput to characterize the phenotypes of any number of mutants. Using a dataset of single and double mutants, we have developed a machine learning model to predict the fitness of yeast double mutants (DMs). We can then go a step further and define, based on the DM fitness and single mutant (SM) fitness for each gene in the DM pair, what type of genetic interaction we observe: additive (no interaction), worse than additive (synergistic), or better than additive (antagonistic).<br /></p>
+
+<p>Machine learning interpretability techniques will allow us not only to create a near-perfect model to predict double mutant fitness, they will also allow us to “get under the hood” of genetic interactions. What features contribute to the misprediction of DMs? What biological relevance do these features have? By delving into an instance-based, local interpretation of the model, we can examine the mechanisms that result in the three types of observable genetic interactions.</p>
+
+<h3 id="domain-specific-knowledge-graph-reasoning">Domain-specific knowledge graph reasoning</h3>
+<hr />
+<p>In 2008, the scientific community published the <a href="https://onlinelibrary.wiley.com/doi/abs/10.1087/20100308">50 millionth scientific article</a>. Now, there are an estimated <a href="https://digitalcommons.unl.edu/scholcom/9/">2.5 million articles published each year</a>. Although when broken down by discipline these numbers are smaller, 34,000 articles (the <a href="https://pubmed.ncbi.nlm.nih.gov/?term=plant+defense">number of results for the search term “plant defense” in PubMed</a>) are still far too many to read in one lifetime. In order to generate a complete understanding of plant defense against herbivores and pathogens, you would have to read ten articles a day for more than 9 years! Natural language processing (NLP) is a field of Artificial Intelligence (AI) that aims to design algorithms that can understand human language. One area of study in NLP is information extraction, which uses algorithms to extract knowledge from text. This information can then be visualized in a knowledge graph (KG), which are intuitive representations of findings extracted from divergent, frequently unrelated, frequently unrelated sources. When the graph content is sourced from scientific literature, we can not only draw connections and visualize complex relationships between findings but also infer new, testable connections that bridge information from the biochemical to the ecological, going far beyond the synthesis capacity of manually reading individual papers. <br /></p>
+
+<p>In this project, I am working on developing a KG construction framework that will integrate information from across biological scales, from the molecular to the ecological. The <a href="https://pubmed.ncbi.nlm.nih.gov/24777989/">plant growth-defense tradeoff</a>, which is the idea that energy directed towards defense is directed away from growth, and vice versa, is the first topic I am using to develop and apply this framework. I will use this framework to generate hypotheses across biological scales, and work with collaborators to validate these hypotheses.<br /></p>
+
+<p><img src="/images/KG_fig.png" alt="Figure illustrating multi-scale knowledge graphs with an example hypothesis. There are three layers of the graph, biochemistry, physiology, and ecology. Each graph has an associated piece of information as an example of what one would find in the graph. On the biochemistry level, it says &quot;Jasmonic acid induces production of compound A via pathway Z&quot;. On the physiology level, it says &quot;Plant Y allocates compound A to the leaves&quot;. On the ecology level, it says &quot;Pest B adopts behavior X when on the leaves of Plant Y&quot;. These three combine to form the hypothesis, &quot;Jasmonic acid induces behavior X in Pest B through production and allocation of compound A in Plant Y&quot;." /></p>
+
+  </div>
+
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Serena G. Lotreck</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Serena G. Lotreck</li><li><a class="u-email" href="mailto:lotrecks@msu.edu">lotrecks@msu.edu</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/serenalotreck"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">serenalotreck</span></a></li><li><a href="https://www.twitter.com/SLotreck"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">SLotreck</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>Website for Serena G. Lotreck, PhD student at Michigan State University.</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
