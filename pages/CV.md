@@ -3,6 +3,6 @@ layout: page
 title: "CV"
 permalink: cv/
 ---
-![Picture of water flowing over a rock with autumn leaves](../images/rock.JPG)
+![Photo of a small waterfall in fall in the Swedler Preserve at Lick Brook, Ithaca, NY](../images/LickBrook.JPG)
 
-You can find my CV [here](../pdfs/SLotreck_CV_FA2020.pdf). Hyperlinks are in blue.
+<object data="{{ site.url }}{{ site.baseurl }}/pdfs/SLotreck_CV_SP2021.pdf" width="1000" height="1000" type="application/pdf"></object>

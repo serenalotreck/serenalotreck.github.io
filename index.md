@@ -4,10 +4,11 @@
 
 layout: page
 ---
-![Photo of a small waterfall in fall in the Swedler Preserve at Lick Brook, Ithaca, NY](../images/LickBrook.JPG)
+![Picture of water flowing over a rock with autumn leaves](../images/rock.JPG)
+
 
 # Welcome 
-My name is Serena Lotreck, and I'm a second year dual PhD student in Plant Biology and Computational Mathematics, Science and Engineering at Michigan State University. 
+My name is Serena Lotreck, and I'm a PhD candidate in Plant Biology and Computational Mathematics, Science and Engineering at Michigan State University. 
 
 ## [about](./about/)
 Learn about me and my research interests
