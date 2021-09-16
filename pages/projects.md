@@ -13,6 +13,6 @@ Information overload is a universal problem in the sciences, due to the [3% incr
 ----------------
 Contemporary biology research produces large-scale “omic” datasets of various types at a prolific rate. Genomic, transcriptomic, methylomic and proteomic datasets are ubiquitous, and are rich with information about the molecular function of study organisms; however, due to the heterogeneity of these datasets, it has historically been difficult to integrate these multiple sources of biological information in order to make predictions about phenotype and to understand the molecular underpinnings of those phenotypes. In this project, we seek to use [deep learning](https://www.ibm.com/cloud/learn/deep-learning) to integrate several omic datasets for *Arabidopsis thaliana*  in order to predict phenotype. We will also use interpretation techniques to explore what biological information the models used to make their predictions, with the aim of developing directed hypotheses about the molecular underpinnings of the predicted phenotypes.
 <br><br>
-Updated: 24 May 2021
+Updated: 15 Sept 2021
 
 
