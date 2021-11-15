@@ -6,7 +6,7 @@ permalink: /presentations/
 ![Clear ice coating a stick, with a background of rushing water and autumn leaves](../images/ice.JPG)
 
 <p align="center">
-<b><font size="+2">Talks</font></b>
+<font size="+2">Talks</font>
 </p>
 <p align="center">
 	<b>May 2021</b> <i>Great Lakes Bioenergy Research Center Annual Science Meeting</i><br>
@@ -21,7 +21,7 @@ permalink: /presentations/
 	<a href="https://mediaspace.msu.edu/media/t/1_1h2nrq4p">NSF REU Final Symposium Talk</a><br>
 </p>
 <p align="center">
-<b><font size="+2">Poster presentations</font></b>
+<font size="+2">Poster presentations</font>
 </p>
 <p align="center">
 	<b>November 2021</b> <i><a href="https://conferenciaprisma.org/">Conferencia PRISMA</a></i><br>
