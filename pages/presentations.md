@@ -1,10 +1,13 @@
 ---
 layout: page
-title: "talks"
-permalink: /talks/
+title: "presentations"
+permalink: /presentations/
 ---
 ![Clear ice coating a stick, with a background of rushing water and autumn leaves](../images/ice.JPG)
 
+<p align="center">
+## Talks 
+</p>
 <p align="center">
 	<b>May 2021</b> <i>Great Lakes Bioenergy Research Center Annual Science Meeting</i><br>
 	<a href="https://mediaspace.msu.edu/media/Intro+to+ML+-+GLBRC+Annual+Science+Meeting/1_w6nw7tt8">Machine learning for plant biology: what, why and how?</a><br>
@@ -17,4 +20,10 @@ permalink: /talks/
 	<b>July 2018</b> <i>Plant Genomics at MSU</i><br>
 	<a href="https://mediaspace.msu.edu/media/t/1_1h2nrq4p">NSF REU Final Symposium Talk</a><br>
 </p>
-
+<p align="center">
+## Poster presentations
+</p>
+<p align="center">
+	<b>November 2021</b> <i>[Conferencia PRISMA](https://conferenciaprisma.org/)</i><br>
+	<a href="../pdfs/SPAN_PRISMA_Poster_14Nov2021.pdf">Spanish Version (original)</a> | <a href="../pdfs/ENG_PRISMA_Poster_14Nov2021.pdf">English Version (translation)</a><br>
+</p>
