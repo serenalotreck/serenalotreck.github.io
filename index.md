@@ -22,5 +22,5 @@ Check out my publications
 ## [projects](./projects/)
 Find descriptions of in-progress projects 
 
-## [talks](./talks/)
-Find links to my research talks 
+## [presentations](./presentations/)
+Find links to my research talks and poster presentations
