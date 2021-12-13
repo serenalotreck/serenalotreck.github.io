@@ -13,6 +13,10 @@ permalink: /presentations/
 	<a href="https://mediaspace.msu.edu/media/Intro+to+ML+-+GLBRC+Annual+Science+Meeting/1_w6nw7tt8">Machine learning for plant biology: what, why and how?</a><br>
 </p>
 <p align="center">
+	<b>May 2021</b> <i>Comprehensive Exam Proposal Seminar</i><br>
+	<a href="https://mediaspace.msu.edu/media/GraPHing%20plants%3A%20Knowledge%20graphs%20as%20a%20hypothesis%20generation%20tool%20in%20the%20plant%20sciences/1_27iwjyjg">GraPHing plants: Knowledge graphs as a hypothesis generation tool in the plant sciences</a><br>
+</p>
+<p align="center">
 	<b>September 2020</b> <i>STEM Village Virtual Symposium</i><br>
 	<a href="https://youtu.be/S0UHH462mvk?t=2985">Domain-specific knowledge graphs in plant biology</a><br>
 </p>
