@@ -27,3 +27,10 @@ permalink: /presentations/
 	<b>November 2021</b> <i><a href="https://conferenciaprisma.org/">Conferencia PRISMA</a></i><br>
 	<a href="../pdfs/SPAN_PRISMA_Poster_14Nov2021.pdf">Spanish Version (original)</a> | <a href="../pdfs/ENG_PRISMA_Poster_14Nov2021.pdf">English Version (translation)</a><br>
 </p>
+<p align="center">
+<font size="+2">Podcasts</font>
+</p>
+<p align="center">
+	<b>February 2022</b> <i>The SciFiles</i><br>
+	<a href="https://impact89fm.org/109142/podcasts/the-sci-files-02-20-2022-serena-lotreck-automated-hypothesis-generation-for-the-plant-sciences/">Episode 5, Season 8: Automated Hypothesis Generation for the Plant Sciences</a><br>
+</p>
