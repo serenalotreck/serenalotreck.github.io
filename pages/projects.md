@@ -5,14 +5,19 @@ permalink: projects/
 ---
 ![Picture of Heart Lake from the summit of Mount Jo in the Adirondacks](../images/MtJo.JPG)
 
-### Graphing plants: Knowledge graphs as a hypothesis generation tool in the plant sciences
---------------
-Information overload is a universal problem in the sciences, due to the [3% increase](https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/asi.23329?casa_token=wDGy6559dc0AAAAA%3A2yesVSc35EZ9Dw16QxvlnOdhn_7KsqN-plaa-MFzI_Rvx0C_3ErW7xEdxuv_PJEDf_Lft86qr_q_pPg) (across all scientific disciplines) in new publications per year from the mid-1980’s through 2010. High-quality research demands that hypotheses be based on the wealth of existing knowledge found in scientific literature, but researchers currently rely on predominantly [manual, labor-intensive methods](https://www.nature.com/articles/nj7612-457a) to manage this flow of information. This process consumes much of their time and results in a large quantity of missing information about previous work; most Background sections in academic papers only relate a [modest fraction of existing work](https://link.springer.com/content/pdf/10.1007/s11192-005-0014-8.pdf) on the subject at hand. **Knowledge graphs** (KG) are a representation of information automatically extracted from a large quantity of unstructured text like scientific papers, where real-world objects are represented as nodes and edges are the relations between them. KG embedding (KGE) tools can be leveraged to predict new links in these KG, thereby generating novel hypotheses about connections between biological entities that are based on a much larger swath of existing work than could ever be achieved manually. While this technique has been used extensively in the biomedical discipline, there has been limited uptake in the plant sciences due to the lack of clear, concise objectives for its application. The principal goal of this project is to develop a **specific yet adaptable framework for using KG as a tool to generate novel hypotheses that are well-grounded in previous work,** simultaneously increasing the quantity of previous knowledge integrated in the generation of new hypotheses and decreasing the need for intensive manual literature mining, giving researchers more time to perform more robust research.
+#### Applications of Automated Information Extraction in the Plant Sciences
+My dissertation research focuses on the application of automated information extraction to plant science problems, seeking to simplify and streamline the process of information propagation among scientists to advance scientific progress. This work can be broken down into two current projects.
+------------------
+#### In a PICKLE: Building out training resources for natural language processing in the plant sciences
+
+Many state-of-the-art algorithms for information extraction tasks require high-quality labeled data in the target domain, in which entities like genes and proteins, as well as the relationships between entities are labeled according to a set of annotation guidelines. While there exist guidelines and datasets for other domains, these resources need development in the plant sciences. In this project, we develop annotation guidelines for the Plant ScIenCe KnowLedgE Graph (PICKLE) corpus, along with 55 annotated abstracts. 
 <br><br>
-### Multi-omics integration with deep learning
-----------------
-Contemporary biology research produces large-scale “omic” datasets of various types at a prolific rate. Genomic, transcriptomic, methylomic and proteomic datasets are ubiquitous, and are rich with information about the molecular function of study organisms; however, due to the heterogeneity of these datasets, it has historically been difficult to integrate these multiple sources of biological information in order to make predictions about phenotype and to understand the molecular underpinnings of those phenotypes. In this project, we seek to use [deep learning](https://www.ibm.com/cloud/learn/deep-learning) to integrate several omic datasets for *Arabidopsis thaliana*  in order to predict phenotype. We will also use interpretation techniques to explore what biological information the models used to make their predictions, with the aim of developing directed hypotheses about the molecular underpinnings of the predicted phenotypes.
+*This work is currently under review for publication. Annotated documents and annotation guidelines will be made available upon publication.*
+
+#### Improving biological relationship extraction from plant science literature
+
+In the previous project, we demonstrate that existing state-of-the-art methods for information extraction from other domains are insufficient in the plant sciences. In this project, we explore alternative approaches to leverage the small amount of available training data in our target domain to improve the extraction of biological relationships from text.
 <br><br>
-Updated: 15 Sept 2021
+Updated: 03 April 2023
 
 
