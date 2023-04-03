@@ -5,8 +5,9 @@ permalink: projects/
 ---
 ![Picture of Heart Lake from the summit of Mount Jo in the Adirondacks](../images/MtJo.JPG)
 
-#### Applications of Automated Information Extraction in the Plant Sciences
+## Applications of Automated Information Extraction in the Plant Sciences
 My dissertation research focuses on the application of automated information extraction to plant science problems, seeking to simplify and streamline the process of information propagation among scientists to advance scientific progress. This work can be broken down into two current projects.
+
 ------------------
 #### In a PICKLE: Building out training resources for natural language processing in the plant sciences
 
