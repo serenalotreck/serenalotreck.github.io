@@ -3,7 +3,7 @@ layout: page
 title: "about"
 permalink: /about/
 ---
-![A picture of me on my first solo backpacking trip on the Finger Lakes Trail in Ithaca, NY](../images/backpacking.JPG)
+![Me smiling against an outdoor backdrop](../images/SLotreck_headshot.jpg)
 
 **My research focuses on the application of natural language processing methods in plant biology, with the aim of improving human life and sustainability through improved scientific workflows.**<br>
 
