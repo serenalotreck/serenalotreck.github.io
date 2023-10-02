@@ -5,20 +5,23 @@ permalink: projects/
 ---
 ![Picture of Heart Lake from the summit of Mount Jo in the Adirondacks](../images/MtJo.JPG)
 
-## Applications of Automated Information Extraction in the Plant Sciences
-My dissertation research focuses on the application of automated information extraction to plant science problems, seeking to simplify and streamline the process of information propagation among scientists to advance scientific progress. This work can be broken down into two current projects.
+## Applications of automated information extraction in the plant sciences
+My dissertation research focuses on the application of automated information extraction to plant science problems, seeking to simplify and streamline the process of information propagation among scientists to advance scientific progress. A high-level overview is described [here](../pdfs/ComSciCon_2023_article.pdf). More specifically, this work can be broken down into three projects.
 
 ------------------
 ### In a PICKLE: Building out training resources for natural language processing in the plant sciences
 
-Many state-of-the-art algorithms for information extraction tasks require high-quality labeled data in the target domain, in which entities like genes and proteins, as well as the relationships between entities are labeled according to a set of annotation guidelines. While there exist guidelines and datasets for other domains, these resources need development in the plant sciences. In this project, we develop annotation guidelines for the Plant ScIenCe KnowLedgE Graph (PICKLE) corpus, along with 55 annotated abstracts. 
+Many state-of-the-art algorithms for information extraction tasks require high-quality labeled data in the target domain, in which entities like genes and proteins, as well as the relationships between entities are labeled according to a set of annotation guidelines. While there exist guidelines and datasets for other domains, these resources need development in the plant sciences. In this project, we develop the Plant ScIenCe KnowLedgE Graph (PICKLE) corpus, and provide our annotation guidelines along with an initial corpus of 250 annotated abstracts. 
 <br><br>
 *This work is currently under review for publication. Annotated documents and annotation guidelines will be made available upon publication.*
 
-### Improving biological relationship extraction from plant science literature
+### Examining best practices for automated hypothesis generation in the plant sciences
 
-In the previous project, we demonstrate that existing state-of-the-art methods for information extraction from other domains are insufficient in the plant sciences. In this project, we explore alternative approaches to leverage the small amount of available training data in our target domain to improve the extraction of biological relationships from text.
+Annotation efforts for the PICKLE projects demonstrated that our annotation schema was unable to capture the full nuance of information present in published articles. In this project, we leverage several existing datasets and modeling frameworks to examine the impact of annotation schema, dataset topic, and model training procedures on the performance of downstream hypothesis generation.
+
+### Bridging disciplinary gaps in desiccation tolerance research
+Using a citation network, we have demonstrated that while desiccation tolerance is a biological phenomenon that exists across kingdoms of life, reseaarchers studying those kingdoms very rarely cite literature from other study systems. This means there is likely untapped information from across disciplines that could be used to generate better hypotheses about the mechanisms of desiccation tolerance in individual systems. In this project, we seek to use the hypothesis generation approaches refined the the previous project to connect reserach areas and generate hypotheses about desiccation tolerance in plants.
 <br><br>
-Updated: 03 April 2023
+Updated: 02 October 2023
 
 
