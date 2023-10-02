@@ -15,4 +15,6 @@ A. E. Bryson et al. (**Serena G. Lotreck** author #19 of 36), “Composite model
 <br>
 
 ### Science Communication
+Lotreck, Serena G., ["Hypothesis generation for desiccation tolerance research"](../pdfs/ComSciCon_2023_article.pdf), ComSciCon Michigan Workshop Article, September 2023
+
 Lotreck, Serena G., [“Knowledge Graphs”](https://www.msuscicomm.org/post/knowledge-graphs), MSU SciComm’s SciComm Voices Blog, June 2020
