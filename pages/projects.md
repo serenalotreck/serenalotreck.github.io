@@ -11,9 +11,9 @@ My dissertation research focuses on the application of automated information ext
 ------------------
 ### In a PICKLE: Building out training resources for natural language processing in the plant sciences
 
-Many state-of-the-art algorithms for information extraction tasks require high-quality labeled data in the target domain, in which entities like genes and proteins, as well as the relationships between entities are labeled according to a set of annotation guidelines. While there exist guidelines and datasets for other domains, these resources need development in the plant sciences. In this project, we develop the Plant ScIenCe KnowLedgE Graph (PICKLE) corpus, and provide our annotation guidelines along with an initial corpus of 250 annotated abstracts. 
+Many state-of-the-art algorithms for information extraction tasks require high-quality labeled data in the target domain, in which entities like genes and proteins, as well as the relationships between entities are labeled according to a set of annotation guidelines. While there exist guidelines and datasets for other domains, these resources need development in the plant sciences. In this project, we develop the Plant ScIenCe KnowLedgE Graph (PICKLE) corpus, and provide our annotation guidelines along with an initial corpus of 250 annotated abstracts. Additionally, we perform an analysis of the impact of adding new types to the evaluation of
 <br><br>
-*This work is currently under review for publication. Annotated documents and annotation guidelines will be made available upon publication.*
+This work has been accepted to *in silico* Plants! The dataset is available on [Zenodo](https://zenodo.org/records/10076664) and [Huggingface](https://huggingface.co/datasets/slotreck/pickle)
 
 ### Examining best practices for automated hypothesis generation in the plant sciences
 
@@ -22,6 +22,6 @@ Annotation efforts for the PICKLE projects demonstrated that our annotation sche
 ### Bridging disciplinary gaps in desiccation tolerance research
 Using a citation network, we have demonstrated that while desiccation tolerance is a biological phenomenon that exists across kingdoms of life, reseaarchers studying those kingdoms very rarely cite literature from other study systems. This means there is likely untapped information from across disciplines that could be used to generate better hypotheses about the mechanisms of desiccation tolerance in individual systems. In this project, we seek to use the hypothesis generation approaches refined the the previous project to connect reserach areas and generate hypotheses about desiccation tolerance in plants.
 <br><br>
-Updated: 02 October 2023
+Updated: 07 November 2023
 
 
