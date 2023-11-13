@@ -7,6 +7,8 @@ permalink: publications/
 
 ### Peer-reviewed articles
 
+Serena Lotreck, Kenia Segura Abá, Melissa Lehti-Shiu, Abigail Seeger, Brianna N I Brown, Thilanka Ranaweera, Ally Schumacher, Mohammad Ghassemi, Shin-Han Shiu, In a PICKLE: A gold standard entity and relation corpus for the molecular plant sciences, in silico Plants, 2023;, diad021, [Accepted Manuscript](https://academic.oup.com/insilicoplants/advance-article-abstract/doi/10.1093/insilicoplants/diad021/7413143?utm_source=advanceaccess)
+
 Jyothi Kumar, Fabio Gomez-Cano, Seth W. Hunt, **Lotreck, Serena G.**, Davis T. Mathieu, McKena L. Wilson, and Tammy M. Long. Central Dogma, Dictionaries, and Functions: Using Programming Concepts to Simulate Biological Processes. CourseSource, 10, 2023. [CourseSource](https://qubeshub.org/community/groups/coursesource/publications?id=4356&tab_active=about&v=1)
 
 Siobhan A. Cusack, Peipei Wang, **Serena G. Lotreck**, Bethany M. Moore, Fanrui Meng, Jeffrey K. Conner, Patrick J. Krysan, Melissa D. Lehti-Shiu, Shin-Han Shiu. Predictive models of genetic redundancy in Arabidopsis thaliana. Molecular Biology and Evolution 10.1093/molbev/msab111. [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/) <br>
