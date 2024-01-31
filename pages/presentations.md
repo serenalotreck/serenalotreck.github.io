@@ -9,26 +9,20 @@ permalink: /presentations/
 <font size="+2">Talks</font>
 </p>
 <p align="center">
-	<b>November 2023</b> <i>Desiccation Workshop</i><br>
+	<b>November 2023</b> <i><a href="https://desworks.co.za/desworks-2024">Desiccation Workshop</a>a></i><br>
 	Drying to connect: Exploring hidden links in desiccation tolerance literature across kingdoms with natural language processing<br>
-</p>
-<p align="center">
-<font size="+2">Talks</font>
 </p>
 <p align="center">
 	<b>November 2023</b> <i>MSU Plant Biology Department Seminar</i><br>
 	Towards automated hypothesis generation for desiccation tolerance<br>
 </p>
 <p align="center">
+	<b>November 2023</b> <i><a href="https://www.walii.science/events.html">WALII Symposium</a></i><br>
+	Graph it out: Possibilities for automated hypothesis generation for desiccation tolerance mechanisms across life systems<br>
+</p>
+<p align="center">
 	<b>May 2021</b> <i>Great Lakes Bioenergy Research Center Annual Science Meeting</i><br>
 	<a href="https://mediaspace.msu.edu/media/Intro+to+ML+-+GLBRC+Annual+Science+Meeting/1_w6nw7tt8">Machine learning for plant biology: what, why and how?</a><br>
-</p>
-<p align="center">
-<font size="+2">Talks</font>
-</p>
-<p align="center">
-	<b>November 2023</b> <i>WALII Symposium</i><br>
-	Graph it out: Possibilities for automated hypothesis generation for desiccation tolerance mechanisms across life systems<br>
 </p>
 <p align="center">
 	<b>May 2021</b> <i>Comprehensive Exam Proposal Seminar</i><br>
