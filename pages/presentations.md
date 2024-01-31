@@ -9,7 +9,7 @@ permalink: /presentations/
 <font size="+2">Talks</font>
 </p>
 <p align="center">
-	<b>November 2023</b> <i><a href="https://desworks.co.za/desworks-2024">Desiccation Workshop</a>a></i><br>
+	<b>November 2023</b> <i><a href="https://desworks.co.za/desworks-2024">Desiccation Workshop</a></i><br>
 	Drying to connect: Exploring hidden links in desiccation tolerance literature across kingdoms with natural language processing<br>
 </p>
 <p align="center">
