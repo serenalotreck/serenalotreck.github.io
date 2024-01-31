@@ -7,7 +7,10 @@ permalink: publications/
 
 ### Peer-reviewed articles
 
-Serena Lotreck, Kenia Segura Abá, Melissa Lehti-Shiu, Abigail Seeger, Brianna N I Brown, Thilanka Ranaweera, Ally Schumacher, Mohammad Ghassemi, Shin-Han Shiu, In a PICKLE: A gold standard entity and relation corpus for the molecular plant sciences, in silico Plants, 2023. [Accepted Manuscript](https://academic.oup.com/insilicoplants/advance-article-abstract/doi/10.1093/insilicoplants/diad021/7413143?utm_source=advanceaccess)
+
+**Lotreck, Serena**, Kenia Segura Abá, Melissa D Lehti-Shiu, Abigail Seeger, Bri-anna NI Brown, Thilanka Ranaweera, Ally Schumacher, Mohammad Ghassemi, and Shin-Han Shiu. Plant Science Knowledge Graph Corpus: a gold standard entity and relation corpus for the molecular plant sciences. in silico Plants, 6(1):diad021, 2024. [Manuscript](https://academic.oup.com/insilicoplants/advance-article-abstract/doi/10.1093/insilicoplants/diad021/7413143?utm_source=advanceaccess)
+
+Peipei Wang, Melissa D Lehti-Shiu, Lotreck, Serena, Kenia Segura Aba, and Shin-Han Shiu. Prediction of plant complex traits via integration of multi-omics data. bioRxiv, pages 2023–11, 2023. [preprint](https://www.biorxiv.org/content/10.1101/2023.11.14.566971v1.full.pdf)
 
 Jyothi Kumar, Fabio Gomez-Cano, Seth W. Hunt, **Lotreck, Serena G.**, Davis T. Mathieu, McKena L. Wilson, and Tammy M. Long. Central Dogma, Dictionaries, and Functions: Using Programming Concepts to Simulate Biological Processes. CourseSource, 10, 2023. [CourseSource](https://qubeshub.org/community/groups/coursesource/publications?id=4356&tab_active=about&v=1)
 
