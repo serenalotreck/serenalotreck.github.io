@@ -4,9 +4,12 @@ title: "projects"
 permalink: projects/
 ---
 ![Picture of Heart Lake from the summit of Mount Jo in the Adirondacks](../images/MtJo.JPG)
+# Current projects
+Stay tuned for updates!
 
+# Past projects
 ## Applications of automated information extraction in the plant sciences
-My dissertation research focuses on the application of automated information extraction to plant science problems, seeking to simplify and streamline the process of information propagation among scientists to advance scientific progress. A high-level overview is described [here](../pdfs/ComSciCon_2023_article.pdf). More specifically, this work can be broken down into three projects.
+My dissertation research focused on the application of automated information extraction to plant science problems, seeking to simplify and streamline the process of information propagation among scientists to advance scientific progress.
 
 ------------------
 ### In a PICKLE: Building out training resources for natural language processing in the plant sciences
@@ -15,13 +18,11 @@ Many state-of-the-art algorithms for information extraction tasks require high-q
 <br><br>
 This work has been [accepted to *in silico* Plants](https://academic.oup.com/insilicoplants/advance-article-abstract/doi/10.1093/insilicoplants/diad021/7413143?utm_source=advanceaccess)! The dataset is available on [Zenodo](https://zenodo.org/records/10076664) and [Huggingface](https://huggingface.co/datasets/slotreck/pickle)
 
-### Examining best practices for automated hypothesis generation in the plant sciences
-
-Annotation efforts for the PICKLE projects demonstrated that our annotation schema was unable to capture the full nuance of information present in published articles. In this project, we leverage several existing datasets and modeling frameworks to examine the impact of annotation schema, dataset topic, and model training procedures on the performance of downstream hypothesis generation.
-
-### Bridging disciplinary gaps in desiccation tolerance research
-Using a citation network, we have demonstrated that while desiccation tolerance is a biological phenomenon that exists across kingdoms of life, reseaarchers studying those kingdoms very rarely cite literature from other study systems. This means there is likely untapped information from across disciplines that could be used to generate better hypotheses about the mechanisms of desiccation tolerance in individual systems. In this project, we seek to use the hypothesis generation approaches refined the the previous project to connect reserach areas and generate hypotheses about desiccation tolerance in plants.
+### Bridging disciplinary gaps in desiccation tolerance research through bibliometric research
+Using a citation network, we have demonstrated that while desiccation tolerance is a biological phenomenon that exists across kingdoms of life, reseaarchers studying those kingdoms very rarely cite literature from other study systems. Using bibliometric analysis, we examine some of the disciplinary biases in the study of desiccation tolerance, and propose a rule-based algorithm to recommend new attendees to specialized academic conference to improve the integration between biological study systems. <br><br>
+This work is currently available as a [pre-print](https://www.biorxiv.org/content/10.1101/2024.06.06.597802v1.full.pdf).
 <br><br>
-Updated: 13 November 2023
+
+Updated: 13 January 2025
 
 
