@@ -8,7 +8,7 @@ layout: page
 
 
 # Welcome 
-My name is Serena Lotreck, and I'm a PhD candidate in Plant Biology and Computational Mathematics, Science and Engineering at Michigan State University. 
+My name is Serena Lotreck, and I'm a postdoctoral researcher in the Walker Lab at the DOE Plant Research Laboratory at Michigan State University. 
 
 ## [about](./about/)
 Learn about me and my research interests
