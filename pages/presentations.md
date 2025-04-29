@@ -9,11 +9,11 @@ permalink: /presentations/
 <font size="+2">Talks</font>
 </p>
 <p align="center">
-	<b>April 2025</b> <i><a href="https://desworks.co.za/desworks-2024">Plant Research Laboratory Tuesday Noon</a></i><br>
+	<b>April 2025</b> <i>Plant Research Laboratory Tuesday Noon</i><br>
 	Acclimation of photosynthesis to changing oxygen involves transcriptional and translational responses in wild-type *Arabidopsis thaliana*<br>
 </p>
 <p align="center">
-	<b>August 2024</b> <i><a href="https://desworks.co.za/desworks-2024">Dissertation Defense Seminar</a></i><br>
+	<b>August 2024</b> <i>Dissertation Defense Seminar</i><br>
 	Hypotheses for a New Generation: Leveraging natural language processing to bridge gaps and generate novel hypotheses for desiccation tolerance research<br>
 </p>
 <p align="center">
