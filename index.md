@@ -14,6 +14,7 @@ My name is Serena Lotreck, and I'm a postdoctoral researcher in the Walker Lab a
 Learn about me and my research interests
 
 ## [CV](./cv/)
+<embed src="/serenalotreck.github.io/pdfs/SLotreck_CV_APR2025.pdf" width="100%" height="745px" />
 Check out my CV
 
 ## [publications](./publications/)
