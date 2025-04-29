@@ -19,4 +19,4 @@ I’m proudly [#BiInSci](https://twitter.com/hashtag/biinsci?ref_src=twsrc%5Egoo
 In my spare time, I love ballet, being outdoors, learning languages, and science fiction. The photos on this site are ones I’ve taken! I split my free time between doing ballet, reading books, learning languages, and most recently, learning to play the fiddle. <br>
 
 
-Updated: 13 January 2025
+Updated: 29 April 2025
