@@ -9,7 +9,15 @@ permalink: /presentations/
 <font size="+2">Talks</font>
 </p>
 <p align="center">
-	<b>November 2023</b> <i><a href="https://desworks.co.za/desworks-2024">Desiccation Workshop</a></i><br>
+	<b>April 2025</b> <i><a href="https://desworks.co.za/desworks-2024">Plant Research Laboratory Tuesday Noon</a></i><br>
+	Acclimation of photosynthesis to changing oxygen involves transcriptional and translational responses in wild-type *Arabidopsis thaliana*<br>
+</p>
+<p align="center">
+	<b>August 2024</b> <i><a href="https://desworks.co.za/desworks-2024">Dissertation Defense Seminar</a></i><br>
+	Hypotheses for a New Generation: Leveraging natural language processing to bridge gaps and generate novel hypotheses for desiccation tolerance research<br>
+</p>
+<p align="center">
+	<b>January 2024</b> <i><a href="https://desworks.co.za/desworks-2024">Desiccation Workshop</a></i><br>
 	Drying to connect: Exploring hidden links in desiccation tolerance literature across kingdoms with natural language processing<br>
 </p>
 <p align="center">
@@ -17,7 +25,7 @@ permalink: /presentations/
 	Towards automated hypothesis generation for desiccation tolerance<br>
 </p>
 <p align="center">
-	<b>November 2023</b> <i><a href="https://www.walii.science/events.html">WALII Symposium</a></i><br>
+	<b>September 2023</b> <i><a href="https://www.walii.science/events.html">WALII Symposium</a></i><br>
 	Graph it out: Possibilities for automated hypothesis generation for desiccation tolerance mechanisms across life systems<br>
 </p>
 <p align="center">
