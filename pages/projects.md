@@ -5,7 +5,11 @@ permalink: projects/
 ---
 ![Picture of Heart Lake from the summit of Mount Jo in the Adirondacks](../images/MtJo.JPG)
 # Current projects
-Stay tuned for updates!
+## Acclimation of photosynthesis to changing oxygen involves transcriptional and translational responses in wild-type Arabidopsis thaliana
+To explore the impact of changing oxygen concentrations on photosynthesis and photorespiration, we grew plants at low (2%), ambient (21%) and high (40%) levels of oxygen, and characterized their photosynthetic responses. We see that plants restore their photosynthetic efficiency after 7 hours at 2% oxygen, while plants at 40% oxygen are unable to return to ambient levels of photosynthetic efficiency. This project focuses on using transcriptomic and proteomic analysis to explore the basis of this observation.
+
+## Research facilitation
+As a member of the Walker and Farre Labs, I serve in a research facilitation capacity across a variety of projects. Current examples include helping graduate students implement high-throughput screens with an HPC installation of AlphaFold3, debugging use of a tool for protein turnover analysis, and running statistical analyses for motif enrichment in potato.
 
 # Past projects
 ## Applications of automated information extraction in the plant sciences
@@ -23,6 +27,6 @@ Using a citation network, we have demonstrated that while desiccation tolerance 
 This work is currently available as a [pre-print](https://www.biorxiv.org/content/10.1101/2024.06.06.597802v1.full.pdf).
 <br><br>
 
-Updated: 13 January 2025
+Updated: 29 April 2025
 
 
