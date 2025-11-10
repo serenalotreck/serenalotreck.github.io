@@ -9,6 +9,10 @@ permalink: /presentations/
 <font size="+2">Talks</font>
 </p>
 <p align="center">
+	<b>November 2025</b> <i>MSU Plant Biology Department Seminar</i><br>
+	As easy as breathing: Impact of changing oxygen conditions on photosynthesis<br>
+</p>
+<p align="center">
 	<b>April 2025</b> <i>Plant Research Laboratory Tuesday Noon</i><br>
 	Acclimation of photosynthesis to changing oxygen involves transcriptional and translational responses in wild-type *Arabidopsis thaliana*<br>
 </p>
