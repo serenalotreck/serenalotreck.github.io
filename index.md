@@ -8,13 +8,13 @@ layout: page
 
 
 # Welcome 
-My name is Serena Lotreck, and I'm a postdoctoral researcher in the Walker Lab at the DOE Plant Research Laboratory at Michigan State University. 
+My name is Serena Lotreck, and I'm an Associate Predictive Modeler at Auto-Owners Insurance in Lansing, MI
 
 ## [about](./about/)
 Learn about me and my research interests
 
-## <a href="pdfs/SLotreck_CV_APR2025.pdf" target="_blank">CV</a>
-Check out my CV
+## <a href="pdfs/SLotreck_resume_SP2026.pdf" target="_blank">resume</a>
+Check out my resume
 
 ## [publications](./publications/)
 Check out my publications
