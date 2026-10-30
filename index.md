@@ -8,7 +8,7 @@ layout: page
 
 
 # Welcome 
-My name is Serena Lotreck, and I'm an Associate Predictive Modeler at Auto-Owners Insurance in Lansing, MI
+My name is Serena Lotreck, and I'm a Predictive Modeler at Auto-Owners Insurance in Lansing, MI
 
 ## [about](./about/)
 Learn about me and my research interests
